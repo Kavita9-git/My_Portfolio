@@ -471,7 +471,7 @@
     }
   
     
-    .tags .grid-list { grid-template-columns: repeat(auto-fit, minmax(141px, 1fr)); }
+    .tags .grid-list { grid-template-columns: repeat(auto-fit, minmax(129px, 1fr)); }
     
   .container { padding-inline: 16px; }
     .tag-btn {
@@ -803,7 +803,8 @@
 
     @media (max-width: 400px){
       #ToolMain{
-        margin-left: -50px;
+               margin-left: -6px;
+        padding: 10px;
       }
       #Tool {
         width: 100%;
@@ -966,7 +967,7 @@
 
 .grid-list{
   display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(140px, 1fr));
+  grid-template-columns:repeat(auto-fit, minmax(129px, 1fr));
   gap:20px;
   max-width:1240px;
   margin:auto;
