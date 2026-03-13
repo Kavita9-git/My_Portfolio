@@ -257,7 +257,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin:'left'});
 // *===============================  typed js==================================
 
 const typed = new Typed('.multiple-text', {
-  strings: ['Frontend Web Developer', 'UI/UX Enthusiast'],
+  strings: ['Frontend Web Developer | UI/UX Enthusiast', 'I build responsive and user-friendly websites.'],
   typeSpeed: 100,
   backSpeed: 100,
   backdelay: 1000,
