@@ -252,7 +252,9 @@
     
   /*  */
   .hero-bg { display: none; } 
-  .home-image { position: relative; } */
+  .home-image { position: relative;
+text-align: center;
+  } */
   
    .home-image .home-img {
     max-width: max-content;
