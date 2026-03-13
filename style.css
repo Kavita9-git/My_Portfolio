@@ -1116,7 +1116,7 @@ text-align: center;
   }
 
   .skills-card{
-    width:120px !important;
+    width : 100% !important
     padding:15px;
   }
 
